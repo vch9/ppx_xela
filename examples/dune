@@ -1,0 +1,3 @@
+(executable
+ (name foo)
+ (preprocess (pps ppx_xela)))
